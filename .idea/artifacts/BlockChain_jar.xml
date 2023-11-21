@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlockChain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlockChain_jar</output-path>
+    <root id="archive" name="BlockChain.jar">
+      <element id="module-output" name="BlockChain" />
+    </root>
+  </artifact>
+</component>
