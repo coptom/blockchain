@@ -23,7 +23,7 @@ class Block {
         return transaction;
     }
 
-    public long getNonce() {
+    public long getNounce() {
         return nounce;
     }
 }
